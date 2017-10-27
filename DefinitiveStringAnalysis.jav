@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Pruebas {
+public class DefinitiveStringAnalysis {
 	public void setCharAt(int index, char ch) {
 		
 		
@@ -22,7 +22,7 @@ public class Pruebas {
 			System.out.println("La palabra si contiene " + letra_compare);
 			int posicion = palabramay.indexOf(letra_comparemay);
 			int posicionreal = posicion +1;
-			System.out.println("La letra esta en la posición " + posicionreal);
+			System.out.println("La letra esta en la posiciÃ³n " + posicionreal);
 		} else {
 			System.out.println("La palabra no contiene " + letra_compare);
 		}
