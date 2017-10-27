@@ -1,4 +1,4 @@
-public class Exercise02 { 
+public class Horasminsegv2 { 
 private static final int MINUTES_IN_AN_HOUR = 60; 
 private static final int SECONDS_IN_A_MINUTE = 60; 
 public static void main(String[] args) { 
