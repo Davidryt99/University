@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class spoc4 {
+public class spoc5 {
 
 public static void main (String [] args) {
 	
